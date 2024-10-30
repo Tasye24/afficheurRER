@@ -1,0 +1,22 @@
+[
+  {
+    "nom": "Nanterre-Prefecture",
+    "zone": 3
+  },
+  {
+    "nom": "La Défense",
+    "zone": 2
+  },
+  {
+    "nom": "Charles de Gaulle - Etoile",
+    "zone": 1
+  },
+  {
+    "nom": "Chatelet - les Halles",
+    "zone": 1
+  },
+  {
+    "nom": "Gare de Lyon",
+    "zone": 1
+  }
+]
